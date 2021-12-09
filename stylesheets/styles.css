@@ -300,5 +300,19 @@ h1#about{
     opacity: 1;
   }
 
+@media only screen and (max-width: 850px) {
+    img#resume{
+        display: block;
+        position: relative;
+        width: 90%;
+        margin: 5% auto 5% auto;
+    }
+
+    h1#wilson{
+        background-color: rgba(0, 0, 0, 0.7);
+
+    }
+}
+
 
 
